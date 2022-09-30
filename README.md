@@ -5,4 +5,4 @@ Does it need to be added? No, should it be strengthened? It depends on the game,
 # Was it your work or did someone help you?
 Of course people helped me, it's not a world without good people, believe me, I know what I'm talking about. 
 # How are things going?
-Great
+Great.
